@@ -5,6 +5,6 @@
 * I am a nervous person
 * I appreciate you
 
-I'm moving all of this stuff over to [Codeberg](https://codeberg.org/milofultz).
+I'm primarly at [Codeberg](https://codeberg.org/stringbone).
 
-[milofultz.com](http://www.milofultz.com) | [Zettelkasten/wiki](http://www.tinybrain.fans) | [Codeberg](https://codeberg.org/milofultz) | [LinkedIn](https://www.linkedin.com/in/milo-fultz/).
+[milofultz.com](http://www.milofultz.com) | [wiki](http://www.tinybrain.fans) | [LinkedIn](https://www.linkedin.com/in/milo-fultz/).
